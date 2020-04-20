@@ -1,6 +1,6 @@
 {
   "name": "jest-pdfobject",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A temporary fork of the original pipworks/PDFObject repo that makes it compatible with Jest tests, for use until the issue is fixed in the main project:",
   "main": "pdfobject.js",
   "scripts": {

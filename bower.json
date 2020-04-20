@@ -1,7 +1,7 @@
 {
   "name": "jest-pdfobject",
   "description": "A jest-friendly fork of the open-source standards-friendly JavaScript utility for embedding PDF files into HTML documents.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "pdfobject.js",
   "moduleType": [
 	  "globals",
